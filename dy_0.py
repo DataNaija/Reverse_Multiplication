@@ -1,6 +1,3 @@
-# Example: Multiplication Table
-# Requirement used while loop
-
 number = int(input("Enter a number: "))
 i = 1
 
